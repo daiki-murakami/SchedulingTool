@@ -3,3 +3,5 @@ log/*
 log/**/*
 tmp/*
 tmp/**/*
+Gemfile
+Gemfile.lock
